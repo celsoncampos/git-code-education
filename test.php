@@ -1,2 +1,2 @@
 <?php phpinfo(); ?>
-<?="Test";?>
+Hello GitHub!
